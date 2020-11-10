@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "pykg"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Agung Setiaji <mragungsetiaji@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "3.8"
+python = "3.9"
 google-cloud-dataproc = "2.0.2"
 google-cloud-storage = "1.32.0"
 loguru = "0.5.3"
